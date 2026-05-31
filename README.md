@@ -5,7 +5,8 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange?logo=pytorch)
 ![Dataset](https://img.shields.io/badge/Dataset-EuroSAT%20RGB-green)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
-[![Open in Colab (Full)](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pujapoudyal/sentinel2-cnn-poverty-proxy/blob/main/sentinel2_cnn_poverty_proxy.ipynb)
+[![Open in Colab:complete (Full)](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14aFcG15mW6cxvsGcfm3oSGmJ2dQHy1RL?usp=sharing)
+[![Open in Colab:simplified (Full)](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/105eWNZ1OPl2VfPOByKELKqM2m9UKkmEv?usp=sharing)
 
 ---
 
